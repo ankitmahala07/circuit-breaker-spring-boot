@@ -1,5 +1,5 @@
 # circuit-breaker-spring-boot
-This project is a template on how to use circuit breaker pattern in our service using Netflix Hystrix dependency.
+This project is a template on how to use circuit breaker pattern in our service using Resilience4j dependency.
 
 # things to know
 1. Resilience4j is compatible with Spring boot 3 whereas there are challenges in getting Netflix Hystrix to get it to work with Spring boot 3.

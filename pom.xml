@@ -12,7 +12,7 @@
 	<artifactId>circuit-breaker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Circuit Breaker</name>
-	<description>This project is a template on how to use circuit breaker pattern in our service using Netflix Hystrix dependency.</description>
+	<description>This project is a template on how to use circuit breaker pattern in our service using Resilience4j dependency.</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
